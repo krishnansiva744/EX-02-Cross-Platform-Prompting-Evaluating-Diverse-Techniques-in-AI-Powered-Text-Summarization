@@ -20,9 +20,9 @@ User experience
 
 ## output
 
-https://github.com/user-attachments/files/22951933/CHATGPT.pdf
+CHATGPT.pdf  
 
-https://github.com/user-attachments/files/22951937/GEMINI.pdf
+GEMINI.pdf 
 
 ## Result
 
