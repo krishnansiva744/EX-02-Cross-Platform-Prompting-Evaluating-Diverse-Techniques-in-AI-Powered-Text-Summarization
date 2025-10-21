@@ -18,8 +18,14 @@ Speed
 
 User experience
 
-## Algorithm
+## output
+
+https://github.com/user-attachments/files/22951933/CHATGPT.pdf
+
+https://github.com/user-attachments/files/22951937/GEMINI.pdf
 
 ## Result
+
+Hence the result is verified using chatgpt and gemini
 
 
