@@ -28,5 +28,3 @@ User experience
 ## Result
 
 Hence the result is verified using chatgpt and gemini
-
-
